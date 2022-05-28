@@ -7,6 +7,8 @@
 
 - 👨‍💻 Check out my [portfolio]()
 
+- 👨‍💻 My [CV]()
+
 - 📫 How to reach me **mangud.hinojosa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
