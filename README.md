@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for new job opportunities.
 
-- 👨‍💻 All of my projects are available at []()
+- 👨‍💻 Check out my [portfolio]()
 
 - 📫 How to reach me **mangud.hinojosa@gmail.com**
 
