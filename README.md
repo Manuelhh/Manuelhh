@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at []()
 
-- 📫 How to reach me **devboyarif@gmail.com**
+- 📫 How to reach me **mangud.hinojosa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
