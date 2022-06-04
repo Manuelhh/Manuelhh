@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently looking for new job opportunities.
 
-- 👨‍💻 Check out my [portfolio]()
+- 👨‍💻 Check out my [portfolio](https://manuelhh.herokuapp.com)
 
-- 👨‍💻 My [CV]()
+- 👨‍💻 My [CV](https://legendary-liger-9b5ac9.netlify.app)
 
 - 📫 How to reach me **mangud.hinojosa@gmail.com**
 
