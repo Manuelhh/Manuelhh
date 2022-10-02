@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for new job opportunities.
 
-- 👨‍💻 Check out my [portfolio](http://manuelhh.com)
+- 👨‍💻 Check out my [portfolio](www.manuelhh.com)
 
 - 👨‍💻 My [CV](https://legendary-liger-9b5ac9.netlify.app)
 
