@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my [portfolio](http://www.manuelhh.com)
 
-- 👨‍💻 My [CV](https://startling-arithmetic-8da5e9.netlify.app)
+- 👨‍💻 My [CV](https://luminous-mochi-d0a7bb.netlify.app)
 
 - 📫 How to reach me **mangud.hinojosa@gmail.com**
 
