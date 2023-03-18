@@ -1,6 +1,10 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-<h1 align="center">Hi 👋, I'm Manuel</h1>
+<h1 align="center">Hi 👋, I'm Manuel H Hinojosa</h1>
 <h3 align="center">I am a Full Stack Web Developer.</h3>
+
+<p> I am passionate about programming and have extensive knowledge of front-end techniques and a flair for visual design. When I’m working on a project, I love structure, order and spending time with details to optimize performance. I’m especially in my element when coming up with original solutions while collaborating with creative, talented and inspiring people.
+
+I worked in the culinary industry for over a decade. My formal training as a chef and my professional experience built my work ethics. I aim to deliver work of the highest quality possible, and thrive on feedback. I consider clear and honest communication fundamental to succesfull collaborating. </p>
 
 
 - 🔭 I’m currently looking for new job opportunities.
