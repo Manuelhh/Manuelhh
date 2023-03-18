@@ -1,7 +1,7 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 <h1 align="center">Hi 👋, I'm Manuel H Hinojosa</h1>
 <h3 align="center">I am a Full Stack Web Developer.</h3>
-<p align="center"> 🔭 I’m currently looking for new job opportunities.</p>
+<p align="center"> 🔭 Currently looking for new job opportunities.</p>
 
   
 <p align="justify"> I am passionate about programming and have extensive knowledge of front-end techniques and a flair for visual design. When I’m working on a project, I love structure, order and spending time with details to optimize performance. I’m especially in my element when coming up with original solutions while collaborating with creative, talented and inspiring people.
