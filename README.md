@@ -10,6 +10,20 @@
 I worked in the culinary industry for over a decade. My formal training as a chef and my professional experience built my work ethics. I aim to deliver work of the highest quality possible, and thrive on feedback. I consider clear and honest communication fundamental to succesfull collaborating. </p>
 
 
+<h3 align="center">Skills:</h3>
+
+<p align="center"> - Mongo/Mongoose </p>
+<p align="center"> - Express </p>
+<p align="center"> - React </p>
+<p align="center"> - NodeJS </p>
+<p align="center"> - HTML </p>
+<p align="center"> - CSS  </p>
+<p align="center"> - SASS </p>
+<p align="center"> - JS </p>
+<p align="center"> - Typescript </p>
+<p align="center"> - Public API </p>
+<p align="center"> - Hosting </p>	
+
 - 👨‍💻 Check out my [portfolio](http://www.manuelhh.com)
 
 - 👨‍💻 My [CV](https://luminous-mochi-d0a7bb.netlify.app)
