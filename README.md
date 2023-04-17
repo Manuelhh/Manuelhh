@@ -26,7 +26,7 @@ I worked in the culinary industry for over a decade. My formal training as a che
 
 - 👨‍💻 Check out my [portfolio](http://www.manuelhh.com)
 
-- 👨‍💻 My [CV](https://luminous-mochi-d0a7bb.netlify.app)
+- 👨‍💻 My [CV](https://vermillion-tapioca-a5d4b2.netlify.app/ManuelHHinojosa-Resume-PDF.pdf)
 
 - 📫 How to reach me **mangud.hinojosa@gmail.com**
 
